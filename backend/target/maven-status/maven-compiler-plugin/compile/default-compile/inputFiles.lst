@@ -1,0 +1,9 @@
+/Users/harshbhansali/Documents/DEV/movies/backend/src/main/java/dev/bhansaliharshg/movies/model/Movie.java
+/Users/harshbhansali/Documents/DEV/movies/backend/src/main/java/dev/bhansaliharshg/movies/controller/MovieController.java
+/Users/harshbhansali/Documents/DEV/movies/backend/src/main/java/dev/bhansaliharshg/movies/service/ReviewService.java
+/Users/harshbhansali/Documents/DEV/movies/backend/src/main/java/dev/bhansaliharshg/movies/dao/MovieRepository.java
+/Users/harshbhansali/Documents/DEV/movies/backend/src/main/java/dev/bhansaliharshg/movies/MoviesApplication.java
+/Users/harshbhansali/Documents/DEV/movies/backend/src/main/java/dev/bhansaliharshg/movies/controller/ReviewController.java
+/Users/harshbhansali/Documents/DEV/movies/backend/src/main/java/dev/bhansaliharshg/movies/dao/ReviewRepository.java
+/Users/harshbhansali/Documents/DEV/movies/backend/src/main/java/dev/bhansaliharshg/movies/service/MovieService.java
+/Users/harshbhansali/Documents/DEV/movies/backend/src/main/java/dev/bhansaliharshg/movies/model/Review.java
